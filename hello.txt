@@ -3,4 +3,4 @@ Hari ini saya melanjutkan belajar materi Dasar Git dengan Github di Dicoding
 - Saya belajar tentang git branches dan kolaborasi dengan tim
 - Saya ingin cepat menyelesaikan modul ini dan mendapatkan sertifikat
 
-Saya mengedit ini
+Saya mengedit ini, pengeditan ini berguna untuk latihan
